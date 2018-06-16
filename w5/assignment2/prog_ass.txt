@@ -1,0 +1,18 @@
+2.
+Average Training CE 2.536
+Final Training CE 2.536
+Final Validation CE 2.606
+Final Test CE 2.614
+5.
+- learning rate: 0.001
+Average Training CE 4.431
+Final Training CE 4.431
+Final Validation CE 4.386
+Final Test CE 4.393
+- lr:10
+slièno 0.001
+7. 
+- 5 input, 100 hidden - oko 4
+- 50 input, 10 hidden - oko 3
+- 50 input , 200 hidden - oko 2
+- 100 input, 5 hidden - oko 3

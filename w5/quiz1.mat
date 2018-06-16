@@ -1,0 +1,82 @@
+# Created by Octave 4.2.1, Fri Jun 15 09:33:35 2018 GMT <unknown@dsvec-4597>
+# name: h1
+# type: scalar
+0.9999938558253978
+
+
+# name: h2
+# type: scalar
+0.9996646498695336
+
+
+# name: h3
+# type: scalar
+0.8807970779778823
+
+
+# name: w
+# type: matrix
+# rows: 4
+# columns: 4
+ 1 1 1 0
+ 0 0 1 0
+ 1 1 1 0
+ 0 0 1 0
+
+
+# name: x
+# type: matrix
+# rows: 5
+# columns: 5
+ 0 1 1 1 0
+ 0 0 0 1 0
+ 0 1 1 1 0
+ 0 0 0 1 0
+ 0 1 1 1 0
+
+
+# name: x1
+# type: matrix
+# rows: 4
+# columns: 4
+ 0 1 1 1
+ 0 0 0 1
+ 0 1 1 1
+ 0 0 0 1
+
+
+# name: x2
+# type: matrix
+# rows: 4
+# columns: 4
+ 1 1 1 0
+ 0 0 1 0
+ 1 1 1 0
+ 0 0 1 0
+
+
+# name: x3
+# type: matrix
+# rows: 4
+# columns: 4
+ 0 0 0 1
+ 0 1 1 1
+ 0 0 0 1
+ 0 1 1 1
+
+
+# name: z1
+# type: scalar
+12
+
+
+# name: z2
+# type: scalar
+8
+
+
+# name: z3
+# type: scalar
+2
+
+
